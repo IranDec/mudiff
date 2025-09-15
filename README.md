@@ -49,3 +49,7 @@ This version of the code includes several fixes to make it runnable:
 -   **Fixed `algos.pyx`:** The Cython code was updated to be compatible with modern versions of Python and NumPy.
 -   **Fixed `qm9/models.py`:** A bug in the `DistributionNodes` class was fixed.
 -   **Updated `main_qm9.py`:** The default hyperparameters have been reduced to allow the model to be trained on machines with less memory.
+
+
+
+edited by: Mohammad Babaei https://adschi.com
